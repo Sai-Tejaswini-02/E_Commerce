@@ -15,6 +15,8 @@
 
 ## 📈 Dashboard Insights
 - Total Revenue
+- Total Customers
+- Total Orders
 - Avg Delivery Days
 - Avg Review Score
 
